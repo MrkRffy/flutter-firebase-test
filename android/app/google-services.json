@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:789243911858:android:c0cd78566aea1b942973ab",
+        "mobilesdk_app_id": "1:789243911858:android:3d6d8fb1488fbb622973ab",
         "android_client_info": {
-          "package_name": "com.mrkrffy.weight_tracker"
+          "package_name": "com.example.flutter_firebase_weight_tracker"
         }
       },
       "oauth_client": [
