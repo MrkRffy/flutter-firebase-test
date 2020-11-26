@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789243911858",
+    "firebase_url": "https://flutter-weight-tracker-eda2a.firebaseio.com",
+    "project_id": "flutter-weight-tracker-eda2a",
+    "storage_bucket": "flutter-weight-tracker-eda2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789243911858:android:c0cd78566aea1b942973ab",
+        "android_client_info": {
+          "package_name": "com.mrkrffy.weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789243911858-13i2gm49ldei0vfivlilie388gtc311r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2MZ5tF4zr8x7dp549nYluODDPHuPdAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789243911858-13i2gm49ldei0vfivlilie388gtc311r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
