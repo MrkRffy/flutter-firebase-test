@@ -1,6 +1,11 @@
 part of 'login_cubit.dart';
 
-@immutable
-abstract class LoginState {}
+class LoginState {
+  final UserCredential userCredential;
 
-class LoginInitial extends LoginState {}
+  LoginState({this.userCredential});
+
+  LoginState update({UserCredential userCredential}) {
+    return LoginState(userCredential: userCredential);
+  }
+}
